@@ -47,7 +47,14 @@ From modding Android apps in elementary school to building Arch Linux from scrat
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Security & OS:**  
-TryHackMe | PicoCTF | Kali Linux | Arch Linux | WiFi Pentesting (ethical & legal labs)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-3F4E66?style=for-the-badge&logo=metasploit&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
+![Hack The Box](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![PicoCTF](https://img.shields.io/badge/PicoCTF-000000?style=for-the-badge&logo=ctfd&logoColor=white)
 
 **Soft Skills:**  
 Curious • Self-Taught • Fast Learner • 100–110 WPM Typist
