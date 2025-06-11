@@ -65,3 +65,4 @@ Curious • Self-Taught • Fast Learner • 100–110 WPM Typist
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/anzar-makrani-355a77271/)
 - ✉️ anzarb@proton.me
+- 🔗 https://linksta.cc/@anzar
