@@ -10,7 +10,7 @@
   /> 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=40&pause=2000&duration=2500&color=F7F7F7&vCenter=true&width=170&lines=I'm+Anzar)](https://git.io/typing-svg)</h1>
 <h3 align="center">
-💻 Cybersecurity Learner | 📱 App Developer | 🐧 Linux Enthusiast | 🧰 I.T Generalist
+🛡️ Cybersecurity Learner | 💻 Developer | 🐧 Linux Enthusiast | 🧰 I.T Generalist
 </h3>
 
 ---
