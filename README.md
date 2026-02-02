@@ -22,11 +22,11 @@
 - I'm a curious mind born in 2004, passionate about everything tech since childhood.
 - What began with Android mods in elementary school grew into Arch Linux builds and a habit of always learning something new.
 - I've always been hands-on and self-driven.
-- 🛠️ Learned Linux CLI, package managers (pacman, apt, dnf), shells (Bash, ZSH, FISH)
-- 🖥️ Explored desktop environments: KDE, GNOME, i3, Bspwm, LXQt, etc.
-- 💾 Built and maintained custom Linux installs
-- 🌐 Web dev (HTML, CSS, JS, PHP)
-- 📱 Android dev in Kotlin/XML & Flutter (used Firebase, Supabase, SQLite, JSON)
+- Learned Linux CLI, package managers (pacman, apt, dnf), shells (Bash, ZSH, FISH)
+- Explored desktop environments: KDE, GNOME, i3, Bspwm, LXQt, etc.
+- Built and maintained custom Linux installs
+- Web dev (HTML, CSS, JS, PHP)
+- Android dev in Kotlin/XML & Flutter (used Firebase, Supabase, SQLite, JSON)
 
 ---
 <h2 align="center">
