@@ -87,7 +87,12 @@
 <p align="center">
 Curious | Self-Taught | Fast Learner | 100–110 WPM Typist
   </p>
-  
+
+  <p align="center">
+  <a href="./Anzar-Makrani-Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+
 ---
 <h2 align="center">Thanks for stopping by
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20Exclamation.png" alt="Heart Exclamation" width="30" height="30" /></h2>
